@@ -1,0 +1,17 @@
+.container {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+.cardbody {
+    background-color: #e3e2db;
+}
+
+.cardtitle{
+    color: #2b7535 ;
+}
+
+.kaynakca{
+    color: #f8f8f8;
+    text-align: center;
+}
