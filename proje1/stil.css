@@ -1,21 +1,31 @@
-.container {
-    background-color: darkolivegreen;
-    text-align: center;
-}
 
 .cardbody {
     background-color: #e3e2db;
 }
 
-.cardtitle{
-    color: #2b7535 ;
+.cardtitle
+{
+    font-weight: bold;
 }
 
-.kaynakca{
+.kaynakca
+{
     color: #f8f8f8;
     text-align: center;
 }
 .benimfoto
 {
+    background-color: rgb(227, 177, 185);
     align-items: center;
+}
+
+.iframe
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
