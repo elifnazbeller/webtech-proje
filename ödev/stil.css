@@ -1,0 +1,151 @@
+
+.navbar { font-family: Arial, Helvetica, sans-serif; }
+.cardbody {
+    background-color: #e3e2db;
+}
+
+.cardtitle
+{
+    font-weight: bold;
+}
+
+.kaynakca
+{
+    color: #f8f8f8;
+    text-align: center;
+}
+.benimfoto
+{
+    background-color: rgb(227, 177, 185);
+    align-items: center;
+}
+
+.iframe
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+a {
+    text-decoration: none;
+  }
+.aciklama{
+  width: 80%;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gazete{
+    width: 45%;
+    height: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .mekanimg{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hobibubble{
+    width: 15%;
+    height: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .slayt
+  {
+    width: 75%;
+    height: 75%;
+    margin: auto;
+  }
+  .imgbubble{
+    width: 45%;
+    height: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #artistInfo img {
+    max-width: 200px;
+    height: auto;
+}
+.artistinfo{
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sanatciisim{
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bilgigetir{
+    background-color: #895f7c; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    flex: 1;
+    background-color: #e3e2db;
+    padding: 20px;
+    margin-left: 20px;
+}
+main {
+    flex: 3;
+    padding-right: 20px;
+}
+.progress{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cvbilgi{
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profilfoto{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cvicerik{
+    color: whitesmoke;
+}
+.cvbubble{
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
